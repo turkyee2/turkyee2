@@ -23,9 +23,8 @@ PyTorch · Git · Linux · Figma · Notion
 
 ## 📜 Certifications & Goals
 
-- 🎯 정보처리기사 필기 합격
-- 🎯 빅데이터분석기사 필기 합격  
-- 🎯 SQLD 응시
+- 🎯 정보처리기사 필기 합격(실기 응시 예정)
+- 🎯 빅데이터분석기사 필기 합격(실기 응시 예정)
 
 ---
 
