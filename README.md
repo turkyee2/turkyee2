@@ -10,7 +10,7 @@ AI·로보틱스·산업 시스템
 Python · Java · C · SQL · HTML/CSS
 
 **Frameworks & Tools**  
-PyTorch · Git · Linux · Figma · Notion
+PyTorch · SpringBoot · Docker · Git · Linux · Figma · Notion
 
 ---
 
