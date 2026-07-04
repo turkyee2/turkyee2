@@ -7,7 +7,7 @@ AI·로보틱스·산업 시스템
 ## 🛠 Tech Stack
 
 **Languages**  
-Python · Java · C · SQL · HTML/CSS
+Python · Java · C · SQL
 
 **Frameworks & Tools**  
 PyTorch · SpringBoot · Docker · Git · Linux · Figma · Notion
