@@ -21,11 +21,10 @@ PyTorch · SpringBoot · Docker · Git · Linux · Figma · Notion
 
 ---
 
-## 📜 Certifications & Goals
+## 📜 Certifications
 
 - 🎯 정보처리기사 필기 합격(실기 응시 예정)
-- 🎯 빅데이터분석기사 필기 합격(실기 응시 예정)
-
+- 🎯 빅데이터분석기사
 ---
 
 ## 📬 Contact
