@@ -2,6 +2,7 @@
 LLM 응용 · AI 서비스 개발 · 로보틱스
 
 📂 프로젝트 상세: [포트폴리오 (Notion)](https://immense-beetle-932.notion.site/40f7b2d9a8928183b6fbd48e00557439)
+
 ---
 
 ## 🛠 Tech Stack
